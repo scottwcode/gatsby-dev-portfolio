@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio
+  Template Used: Gatsby Starter Portfolio
 </h1>
 
 <p align="center">
@@ -20,6 +20,7 @@
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
 [**Demo Website**](https://cara.lekoarts.de)
+[**ScottW Website**](https://scottwcode.github.io/gatsby-dev-portfolio/)
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
