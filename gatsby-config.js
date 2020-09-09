@@ -46,4 +46,5 @@ module.exports = {
       },
     },
   ].filter(Boolean),
+  pathPrefix: '/gatsby-dev-portfolio',
 };
